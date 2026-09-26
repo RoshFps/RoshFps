@@ -130,5 +130,5 @@ A budget trip planner built with Streamlit and MySQL. I hardened the original pr
 ---
 
 <p align="center">
-  <sub>💬 Happy to talk about fuzzing, web security or crypto implementations. <a href="mailto:roshan7156@gmail.com">Drop me a line</a>.</sub>
+  <sub>💬 Happy to talk about security or crypto implementations. <a href="mailto:roshan7156@gmail.com">Drop me a line</a>.</sub>
 </p>
