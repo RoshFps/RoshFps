@@ -117,7 +117,7 @@ A budget trip planner built with Streamlit and MySQL. I hardened the original pr
 | --- | --- |
 | **Coverage-guided vulnerability fuzzing pipeline** | A grey-box fuzzer combining mutation and grammar-based inputs, with branch-coverage feedback from instrumented binaries. It found crashes in 3 target programs. |
 | **Grammar mining & protocol input modelling** | AST-based pipelines that extract input grammars and generate thousands of grammar-conforming inputs to stress protocol parsers. |
-| **IVYCIDE** · *Best Paper Award, 2024* | An ML-based intrusion detection system for enterprise-IoT driver threats, presented and defended at a national conference. |
+
 
 ## 🎓 Education & experience
 
