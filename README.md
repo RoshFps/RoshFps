@@ -10,7 +10,7 @@
 
 ## 👋 About me
 
-I'm a **Cybersecurity master's student at Saarland University**. I like breaking things to understand them. Most of my time goes into **fuzzing, binary reverse engineering, web application security and applied cryptography**. Before Saarbrücken I studied Computer Science & Engineering in Bengaluru and wrote firmware for microcontrollers.
+I'm a **Cybersecurity master's student at Saarland University**. I like breaking things to understand them. Most of my time goes into ** network analysis, web application security and applied cryptography**. Before Saarbrücken I studied Computer Science & Engineering in Bengaluru and wrote firmware for microcontrollers.
 
 - 🤝 **Looking for:** working student and internship roles in security engineering, pentesting or security research.
 
