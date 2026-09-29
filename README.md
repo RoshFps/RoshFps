@@ -124,7 +124,7 @@ A budget trip planner built with Streamlit and MySQL. I hardened the original pr
 | | |
 | --- | --- |
 | 🎓 **M.Sc. Cybersecurity** | Saarland University, Saarbrücken · *Oct 2024 – present* |
-| 🎓 **B.E. Computer Science & Engineering** | The Oxford College of Engineering (VTU), Bengaluru · *2020 – 2024* |
+| 🎓 **B.E. Computer Science & Engineering** | TOCE (VTU), Bengaluru · *2020 – 2024* |
 | 💼 **Embedded Systems Development Intern** | Emterxe Technology, Bengaluru · *Aug – Oct 2023*<br>PIC16F877A firmware, timing-critical protocol debugging, test documentation in a 5-person agile team |
 
 ---
