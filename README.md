@@ -12,9 +12,6 @@
 
 I'm a **Cybersecurity master's student at Saarland University**. I like breaking things to understand them. Most of my time goes into **fuzzing, binary reverse engineering, web application security and applied cryptography**. Before Saarbrücken I studied Computer Science & Engineering in Bengaluru and wrote firmware for microcontrollers.
 
-- 🔍 **Currently:** building coverage-guided and grammar-based fuzzers to find memory faults and parser bugs.
-- 🏆 **Best Paper Award (2024):** *IVYCIDE: Smart IDS Against E-IoT Driver Threats*, an ML-based intrusion detection system for enterprise IoT.
-- 🎤 **Seminar (2025):** *Politics of Security and Privacy*, Saarland University / CISPA. Topics: surveillance tech, censorship infrastructure and information leakage.
 - 🤝 **Looking for:** working student and internship roles in security engineering, pentesting or security research.
 
 ## 🛠️ Toolbox
