@@ -10,9 +10,9 @@
 
 ## 👋 About me
 
-I'm a **Cybersecurity master's student at Saarland University**. I like breaking things to understand them. Most of my time goes into **network analysis, web application security and applied cryptography**. Before Saarbrücken I studied Computer Science & Engineering in Bengaluru and wrote firmware for microcontrollers.
+I'm a **Cybersecurity master's student at Saarland University**. I like breaking things to understand them. Most of my time goes into **network analysis, web application security and applied cryptography**, and lately also the governance side: risk assessment, ISO/IEC 27001 and business continuity. Before Saarbrücken I studied Computer Science & Engineering in Bengaluru and wrote firmware for microcontrollers.
 
-- 🤝 **Looking for:** working student and internship roles in security engineering, pentesting or security research.
+- 🤝 **Looking for:** working student and internship roles in security engineering, GRC / information security management, pentesting or security research.
 
 ## 🛠️ Toolbox
 
@@ -24,6 +24,13 @@ I'm a **Cybersecurity master's student at Saarland University**. I like breaking
 ![Autopsy](https://img.shields.io/badge/Autopsy-2F3A4A?style=flat-square)
 ![Fuzzing](https://img.shields.io/badge/Coverage--guided_fuzzing-0F766E?style=flat-square)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Governance, risk & compliance**
+
+![ISO/IEC 27001:2022](https://img.shields.io/badge/ISO%2FIEC_27001%3A2022-1E3A8A?style=flat-square)
+![Risk assessment](https://img.shields.io/badge/Risk_assessment-7C3AED?style=flat-square)
+![Business continuity](https://img.shields.io/badge/Business_continuity_%28BIA%29-0F766E?style=flat-square)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
 **Languages**
 
@@ -62,6 +69,16 @@ I'm a **Cybersecurity master's student at Saarland University**. I like breaking
 ## 🚀 Featured projects
 
 <table>
+<tr>
+<td colspan="2" valign="top">
+
+### 📋 [ISMS & Business Continuity (ISO 27001)](https://github.com/RoshFps/GRC_Project)
+A self-study GRC project that builds the core documents of an **ISO/IEC 27001:2022** information security management system and business continuity plan, using Saarland University as the example organisation (public facts only, internals invented). So far: a **risk register** of 18 risks with likelihood × impact scoring, owners, Annex A controls, remediation tracking, KPIs and a heatmap. Next up: Statement of Applicability, business impact analysis with a continuity plan and tabletop exercise, and a Python KPI dashboard.
+
+`ISO 27001` `Risk management` `BCM` `Excel` `Python`
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
