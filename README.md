@@ -1,56 +1,67 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Roshan Immanuel — M.Sc. Cybersecurity student at Saarland University" width="100%">
+  <img src="assets/banner.svg" alt="Roshan Immanuel, M.Sc. Cybersecurity student at Saarland University" width="100%">
 </p>
 
 <p align="center">
   <a href="mailto:roshan7156@gmail.com"><img src="https://img.shields.io/badge/Email-roshan7156%40gmail.com-0b1220?style=for-the-badge&logo=gmail&logoColor=34d399" alt="Email"></a>
   <img src="https://img.shields.io/badge/Based_in-Saarbr%C3%BCcken%2C_Germany-0b1220?style=for-the-badge&logo=googlemaps&logoColor=22d3ee" alt="Based in Saarbrücken, Germany">
   <img src="https://img.shields.io/badge/Open_to-Working_student_roles-0b1220?style=for-the-badge&logo=handshake&logoColor=34d399" alt="Open to working student roles">
+  <img src="https://komarev.com/ghpvc/?username=RoshFps&label=Profile%20views&color=0b1220&style=for-the-badge" alt="Profile views">
 </p>
 
-## 👋 About me
+<img src="assets/h-about.svg" alt="About" width="100%">
 
-I'm a **Cybersecurity master's student at Saarland University**. I like breaking things to understand them. Most of my time goes into **network analysis, web application security and applied cryptography**, and lately also the governance side: risk assessment, ISO/IEC 27001 and business continuity. Before Saarbrücken I studied Computer Science & Engineering in Bengaluru and wrote firmware for microcontrollers.
+<p align="center">
+  <img src="assets/terminal.svg" alt="whoami: Roshan Immanuel, M.Sc. Cybersecurity student at Saarland University. Focus: web security, GRC and ISO/IEC 27001, forensics and monitoring, AI security. Looking for working student roles in security engineering, GRC or security research." width="100%">
+</p>
 
-- 🤝 **Looking for:** working student and internship roles in security engineering, GRC / information security management, pentesting or security research.
+I like breaking things to understand them, then writing down how to stop it happening again. My work sits where **offensive security** meets **governance**: I find the vulnerability, then I model the risk, the control and the recovery plan around it.
 
-## 🛠️ Toolbox
+<img src="assets/h-focus.svg" alt="Focus areas" width="100%">
 
-**Security**
+<p align="center">
+  <img src="assets/focus.svg" alt="Focus areas: Web and app security; GRC and compliance; forensics and monitoring; AI and agentic security" width="100%">
+</p>
 
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Ghidra](https://img.shields.io/badge/Ghidra-D12B2B?style=flat-square&logo=ghidra&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Autopsy](https://img.shields.io/badge/Autopsy-2F3A4A?style=flat-square)
-![Fuzzing](https://img.shields.io/badge/Coverage--guided_fuzzing-0F766E?style=flat-square)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+<img src="assets/h-projects.svg" alt="Featured projects" width="100%">
 
-**Governance, risk & compliance**
+<p align="center">
+  <a href="https://github.com/RoshFps/GRC_Portfolio"><img src="assets/card-grc.svg" alt="ISMS and Business Continuity: ISO 27001 risk register, Statement of Applicability, BIA, continuity plan" width="49%"></a>
+  <a href="https://github.com/RoshFps/SkrillX"><img src="assets/card-skrillx.svg" alt="SkrillX: guardrails for AI-assisted software delivery" width="49%"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/RoshFps/home-siem-lab"><img src="assets/card-siem.svg" alt="Home SIEM Lab: Wazuh, pfSense, Sysmon" width="49%"></a>
+  <a href="https://github.com/RoshFps/Shray8"><img src="assets/card-endpoint.svg" alt="Endpoint Security Dashboard: antivirus coverage, patch compliance, suspicious processes" width="49%"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/RoshFps/AES-Encrypt-Decrypt"><img src="assets/card-aes.svg" alt="AES-256-GCM file encryption tool" width="49%"></a>
+  <a href="https://github.com/RoshFps/HTML-and-CSS-Code-Generation-using-Image-Recognition"><img src="assets/card-draw2web.svg" alt="Draw2Web: hand-drawn sketch to HTML and CSS" width="49%"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/RoshFps/Object-Detection-in-Autonomous-Driving-System"><img src="assets/card-driving.svg" alt="Autonomous driving vision with YOLOv5, OpenCV and Arduino" width="49%"></a>
+  <a href="https://github.com/RoshFps/Bangalore-Explorer"><img src="assets/card-explorer.svg" alt="Bangalore Explorer: hardened Streamlit and MySQL trip planner" width="49%"></a>
+</p>
 
-![ISO/IEC 27001:2022](https://img.shields.io/badge/ISO%2FIEC_27001%3A2022-1E3A8A?style=flat-square)
-![Risk assessment](https://img.shields.io/badge/Risk_assessment-7C3AED?style=flat-square)
-![Business continuity](https://img.shields.io/badge/Business_continuity_%28BIA%29-0F766E?style=flat-square)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+<details>
+<summary><b>🔬 Research &amp; coursework projects</b></summary>
+<br>
 
-**Languages**
+| Project | What I built |
+| --- | --- |
+| **Coverage-guided vulnerability fuzzing pipeline** | A grey-box fuzzer combining mutation and grammar-based inputs, with branch-coverage feedback from instrumented binaries. It found crashes in 3 target programs. |
+| **Grammar mining &amp; protocol input modelling** | AST-based pipelines that extract input grammars and generate thousands of grammar-conforming inputs to stress protocol parsers. |
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+</details>
 
-**Build & ship**
+<img src="assets/h-toolbox.svg" alt="Toolbox" width="100%">
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![PyTorch](https://img.shields.io/badge/YOLOv5_·_PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,c,php,mysql,bash,linux,kali,docker,git,githubactions,fastapi,flask,pytorch,tensorflow,opencv,arduino&perline=9&theme=dark" alt="Python, C, PHP, MySQL, Bash, Linux, Kali, Docker, Git, GitHub Actions, FastAPI, Flask, PyTorch, TensorFlow, OpenCV, Arduino">
+</p>
+
+<p align="center">
+  <img src="assets/toolbox.svg" alt="Toolbox. Languages: Python, C, PHP, SQL, Bash. Offensive and forensics: Burp Suite, Ghidra, Wireshark, Autopsy, Kali Linux, fuzzing. Monitoring and DevSecOps: Wazuh, Sysmon, pfSense, Semgrep, Gitleaks, Bandit, GitHub Actions. GRC: ISO/IEC 27001:2022, ISO 22301, BSI IT-Grundschutz, NIS2, risk register, BIA. AI and ML: PyTorch, TensorFlow, OpenCV, YOLOv5, Ollama, Qwen, Claude Code. Web, data and infrastructure: FastAPI, Flask, Streamlit, MySQL, Docker, Linux, Git" width="100%">
+</p>
 
 <details>
 <summary><b>What I practise in security</b></summary>
@@ -62,87 +73,31 @@ I'm a **Cybersecurity master's student at Saarland University**. I like breaking
 | Binary analysis | Reverse engineering with Ghidra, crash triage |
 | Testing | Coverage-guided fuzzing, grammar mining, grammar-based test generation |
 | Cryptography | AES (CBC, GCM), key derivation (PBKDF2, scrypt), IV and nonce handling |
-| Forensics & networks | Autopsy, Wireshark traffic analysis, Android app security |
+| Forensics &amp; networks | Autopsy, Wireshark traffic analysis, Wazuh and Sysmon telemetry, Android app security |
+| Governance | Risk registers, Statements of Applicability, business impact analysis, tabletop exercises |
 
 </details>
 
-## 🚀 Featured projects
-
-<table>
-<tr>
-<td colspan="2" valign="top">
-
-### 📋 [ISMS & Business Continuity (ISO 27001)](https://github.com/RoshFps/GRC_Project)
-A self-study GRC project that builds the core documents of an **ISO/IEC 27001:2022** information security management system and business continuity plan, using Saarland University as the example organisation (public facts only, internals invented). So far: a **risk register** of 18 risks with likelihood × impact scoring, owners, Annex A controls, remediation tracking, KPIs and a heatmap. Next up: Statement of Applicability, business impact analysis with a continuity plan and tabletop exercise, and a Python KPI dashboard.
-
-`ISO 27001` `Risk management` `BCM` `Excel` `Python`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔐 [AES-Encrypt-Decrypt](https://github.com/RoshFps/AES-Encrypt-Decrypt)
-A command-line file encryption tool built on **AES-256-GCM** with an **scrypt**-derived key. Wrong passwords and tampered files are rejected, never half-decrypted. It streams large files in chunks and has a versioned file format.
-
-`Python` `cryptography` `CLI`
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ [SkrillX](https://github.com/RoshFps/SkrillX)
-A CLI for securing AI-assisted software delivery. It sets up guardrails in a repo, runs checks and produces an HTML scorecard dashboard. Also includes shell completion and a parallel test runner.
-
-`Python` `DevSecOps` `GitHub Actions`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🚗 [Object Detection for Autonomous Driving](https://github.com/RoshFps/Object-Detection-in-Autonomous-Driving-System)
-A small-scale self-driving car. Vision modules detect pedestrians, potholes, traffic lights, road signs and lanes with **YOLOv5** and OpenCV, then drive the motors over serial through an **Arduino**.
-
-`Python` `YOLOv5` `OpenCV` `Arduino`
-
-</td>
-<td width="50%" valign="top">
-
-### ✏️ [Sketch → HTML/CSS](https://github.com/RoshFps/HTML-and-CSS-Code-Generation-using-Image-Recognition)
-Draw a web form on paper and get a working page back. A **Faster R-CNN** model detects UI elements, which are laid out as HTML and styled with generated CSS. Includes a Flask web app with hardened uploads.
-
-`Python` `TensorFlow` `Flask`
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### 🗺️ [Bangalore Explorer](https://github.com/RoshFps/Bangalore-Explorer)
-A budget trip planner built with Streamlit and MySQL. I hardened the original prototype with **scrypt** password hashing, fully parameterised SQL (no injection), input validation, login rate-limiting and a least-privilege DB user. `Python` `Streamlit` `MySQL` `AppSec`
-
-</td>
-</tr>
-</table>
-
-## 🔬 Research & coursework projects
-
-| Project | What I built |
-| --- | --- |
-| **Coverage-guided vulnerability fuzzing pipeline** | A grey-box fuzzer combining mutation and grammar-based inputs, with branch-coverage feedback from instrumented binaries. It found crashes in 3 target programs. |
-| **Grammar mining & protocol input modelling** | AST-based pipelines that extract input grammars and generate thousands of grammar-conforming inputs to stress protocol parsers. |
-
-
-## 🎓 Education & experience
+<img src="assets/h-journey.svg" alt="Journey" width="100%">
 
 | | |
 | --- | --- |
-| 🎓 **M.Sc. Cybersecurity** | Saarland University, Saarbrücken · *Oct 2024 – present* |
-| 🎓 **B.E. Computer Science & Engineering** | TOCE (VTU), Bengaluru · *2020 – 2024* |
-| 💼 **Embedded Systems Development Intern** | Emterxe Technology, Bengaluru · *Aug – Oct 2023*<br>PIC16F877A firmware, timing-critical protocol debugging, test documentation in a 5-person agile team |
+| 🎓 **M.Sc. Cybersecurity** | Saarland University, Saarbrücken · *Oct 2024 – present*<br>Web Security · IT Forensics · ML in Cybersecurity · seminars on agentic networks and on the politics of security &amp; privacy |
+| 🎓 **B.E. Computer Science &amp; Engineering** | The Oxford College of Engineering (VTU), Bengaluru · *2020 – 2024* |
+| 💼 **Embedded Systems Development Intern** | Emterxe Technology Pvt. Ltd., Bengaluru · *Aug – Oct 2023*<br>PIC16F877A firmware, timing-critical protocol debugging, test documentation in a 5-person agile team |
+
+<img src="assets/h-activity.svg" alt="Activity" width="100%">
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RoshFps/RoshFps/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RoshFps/RoshFps/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/RoshFps/RoshFps/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
+</p>
 
 ---
 
 <p align="center">
-  <sub>💬 Happy to talk about security or crypto implementations. <a href="mailto:roshan7156@gmail.com">Drop me a line</a>.</sub>
+  <sub>💬 Happy to talk about web security, GRC or crypto implementations. <a href="mailto:roshan7156@gmail.com">Drop me a line</a>.</sub>
 </p>

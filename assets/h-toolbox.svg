@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="46" viewBox="0 0 900 46" role="img" aria-label="// toolbox">
+<rect x="0" y="21" width="900" height="2" fill="#1f2a44"/>
+<rect x="0" y="21" width="180" height="2" fill="#fbbf24"/>
+<rect x="0" y="6" width="136" height="32" rx="8" fill="#0b1220" stroke="#fbbf24" stroke-opacity="0.7"/>
+<text x="14" y="28" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="16" font-weight="700" fill="#fbbf24">// toolbox</text>
+</svg>
