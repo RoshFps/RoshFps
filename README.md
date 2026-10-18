@@ -6,7 +6,7 @@
   <a href="mailto:roshan7156@gmail.com"><img src="https://img.shields.io/badge/Email-roshan7156%40gmail.com-0b1220?style=for-the-badge&logo=gmail&logoColor=34d399" alt="Email"></a>
   <img src="https://img.shields.io/badge/Based_in-Saarbr%C3%BCcken%2C_Germany-0b1220?style=for-the-badge&logo=googlemaps&logoColor=22d3ee" alt="Based in Saarbrücken, Germany">
   <img src="https://img.shields.io/badge/Open_to-Working_student_roles-0b1220?style=for-the-badge&logo=handshake&logoColor=34d399" alt="Open to working student roles">
-  <img src="https://komarev.com/ghpvc/?username=RoshFps&label=Profile%20views&color=0b1220&style=for-the-badge" alt="Profile views">
+  <img src="https://api.visitorbadge.io/api/visitors?path=github.com%2FRoshFps&label=PROFILE%20VIEWS&labelColor=%230b1220&countColor=%2334d399&style=for-the-badge" alt="Profile views">
 </p>
 
 <img src="assets/h-about.svg" alt="About" width="100%">
