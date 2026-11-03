@@ -60,15 +60,6 @@ I like breaking things to understand them, then writing down how to stop it happ
 | Forensics &amp; networks | Autopsy, Wireshark traffic analysis, Wazuh and Sysmon telemetry, Android app security |
 | Governance | Risk registers, Statements of Applicability, business impact analysis, tabletop exercises |
 
-</details>
-
-<img src="assets/h-journey.svg" alt="Journey" width="100%">
-
-| | |
-| --- | --- |
-| 🎓 **M.Sc. Cybersecurity** | Saarland University, Saarbrücken · *Oct 2024 – present*<br>Web Security · IT Forensics · ML in Cybersecurity · seminars on agentic networks and on the politics of security &amp; privacy |
-| 🎓 **B.E. Computer Science &amp; Engineering** | Visvesvaraya Technological University (VTU), Bengaluru · *2020 – 2024* |
-| 💼 **Embedded Systems Development Intern** | Emterxe Technology Pvt. Ltd., Bengaluru · *Aug – Oct 2023*<br>PIC16F877A firmware, timing-critical protocol debugging, test documentation in a 5-person agile team |
 
 <img src="assets/h-activity.svg" alt="Activity" width="100%">
 
