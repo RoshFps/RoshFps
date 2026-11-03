@@ -1,19 +1,3 @@
-<p align="center">
-  <img src="assets/banner.svg" alt="Roshan Immanuel, M.Sc. Cybersecurity student at Saarland University" width="100%">
-</p>
-
-<p align="center">
-  <a href="mailto:roshan7156@gmail.com"><img src="https://img.shields.io/badge/Email-roshan7156%40gmail.com-0b1220?style=for-the-badge&logo=gmail&logoColor=34d399" alt="Email"></a>
-  <img src="https://img.shields.io/badge/Based_in-Saarbr%C3%BCcken%2C_Germany-0b1220?style=for-the-badge&logo=googlemaps&logoColor=22d3ee" alt="Based in Saarbrücken, Germany">
-  <img src="https://img.shields.io/badge/Open_to-Working_student_roles-0b1220?style=for-the-badge&logo=handshake&logoColor=34d399" alt="Open to working student roles">
-  <img src="https://api.visitorbadge.io/api/visitors?path=github.com%2FRoshFps&label=PROFILE%20VIEWS&labelColor=%230b1220&countColor=%2334d399&style=for-the-badge" alt="Profile views">
-</p>
-
-<img src="assets/h-about.svg" alt="About" width="100%">
-
-<p align="center">
-  <img src="assets/terminal.svg" alt="whoami: Roshan Immanuel, M.Sc. Cybersecurity student at Saarland University. Focus: web security, GRC and ISO/IEC 27001, forensics and monitoring, AI security. Looking for working student roles in security engineering, GRC or security research." width="100%">
-</p>
 
 I like breaking things to understand them, then writing down how to stop it happening again. My work sits where **offensive security** meets **governance**: I find the vulnerability, then I model the risk, the control and the recovery plan around it.
 
